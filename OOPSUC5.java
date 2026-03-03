@@ -1,4 +1,5 @@
-public class OOPSUC5 {
+public class OOPSUC4 {
+    public class OOPSUC5 {
     public static void main(String[] args) {
 
         
@@ -18,3 +19,4 @@ public class OOPSUC5 {
     }
 }
     
+}

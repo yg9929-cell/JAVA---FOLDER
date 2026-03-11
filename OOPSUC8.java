@@ -1,5 +1,5 @@
+import java.util.HashMap;
 public class OOPSUC8 {
-    import java.util.HashMap;
 
 public static HashMap<Character, String[]> createCharacterMap() {
 
@@ -58,5 +58,5 @@ public static void main(String[] args) {
     HashMap<Character, String[]> map = createCharacterMap();
     String message = "OOPS";
     displayBanner(message, map);
+    }
 }
-
